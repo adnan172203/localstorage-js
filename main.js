@@ -1,4 +1,4 @@
-selector
+//selector
 
 const profileForm     = document.querySelector('.profileForm');
 const profile         = document.querySelector('.profile');
